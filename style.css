@@ -28,3 +28,8 @@ label{
   padding: 10px;
   border-radius: 10px;
 }
+
+#result_name, #update_emoji{
+  font-size: 40px;
+  color: rgb(255, 185, 119);
+}
